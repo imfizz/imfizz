@@ -1,4 +1,4 @@
-### Hi there, I'm Francis - aka [codeSTACKr][website] 👋
+### Hi there, I'm Francis - aka [kiko][website] 👋
 
 ## I'm a College Student and a Self Taught Developer!
 - 🔭 I'm currently working on [VS Code Course][website]!
