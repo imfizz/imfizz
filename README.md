@@ -1,7 +1,7 @@
 ### Hi there, I'm Francis - aka [kiko][website] 👋
 
 ## I'm a College Student and a Self Taught Developer!
-- 🔭 I'm currently working on ExpressJS[website]!
+- 🔭 I'm currently working on ExpressJS [website]!
 - 🌱 I'm currently learning everything 🤣
 - 🤼 I'm looking for work
 - 🥅 2021 Goals: Create a tons of projects
@@ -30,7 +30,6 @@
 [<img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" style="max-width: 100%;" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;" />][website]
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;" />][website]
