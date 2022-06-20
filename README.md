@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on ExpressJS [website]!
 - 🌱 I'm currently learning everything 🤣
 - 🤼 I'm looking for work
-- 🥅 2021 Goals: Create a tons of projects
+- 🥅 2022 Goals: Find a job in Web Development
 - ⚡ Fun fact: I love to study, code and play computer games
 
 ### Connect with me: 
