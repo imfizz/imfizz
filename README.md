@@ -1,6 +1,6 @@
-### Hi there, I'm Francis - aka [kiko][website] 👋
+### Hi there, I'm Francis Ilacad - [kiko][website] 👋
 
-## I'm a College Student and a Self Taught Developer!
+## Graduated in BSIT and a Self Taught Developer!
 - 🔭 I'm currently working on ExpressJS [website]!
 - 🌱 I'm currently learning everything 🤣
 - 🤼 I'm looking for work
