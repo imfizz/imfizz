@@ -1,10 +1,10 @@
 ### Hi there, I'm Francis Ilacad - [kiko][website] 👋
 
-## Graduated in BSIT and a Self Taught Developer!
-- 🔭 I'm currently working on Laravel [website]!
+## BSIT Graduated and a Self Taught Developer!
+- 🔭 I'm currently working on ReactJS [website]!
 - 🌱 I'm currently learning everything 🤣
 - 🤼 I'm looking for work
-- 🥅 2022 Goals: Find a job in Web Development
+- 🥅 2024 Goals: Find a job in Web Development that can help me to improve my skills
 - ⚡ Fun fact: I love to study, code and play computer games
 
 ### Connect with me: 
