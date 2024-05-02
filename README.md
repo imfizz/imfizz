@@ -1,11 +1,11 @@
 ### Hi there, I'm Francis Ilacad - [kiko][website] 👋
 
-## BSIT Graduated and a Self Taught Developer!
-- 🔭 I'm currently working on ReactJS [website]!
+## Fullstack Web Developer
+- 🔭 I'm currently working on NextJS [website]!
 - 🌱 I'm currently learning everything 🤣
 - 🤼 I'm looking for work
-- 🥅 2024 Goals: Find a job in Web Development that can help me to improve my skills
-- ⚡ Fun fact: I love to study, code and play computer games
+- 🥅 2025 Goals: Find a job in Web Development that can help me to improve my skills
+- ⚡ Fun fact: I love to study, code and explore new technologies
 
 ### Connect with me: 
 
