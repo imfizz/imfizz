@@ -1,24 +1,28 @@
-### Hi there, I'm Francis Ilacad - [kiko][Portfolio Website] 👋
+## 👋 Welcome to my GitHub!
 
-## Fullstack Web Developer
-- 🔭 I'm currently working on NextJS [website]!
-- 🌱 I'm currently learning everything 🤣
-- 🤼 I'm looking for work
-- 🥅 2025 Goals: Find a job in Web Development that can help me to improve my skills
-- ⚡ Fun fact: I love to study, code and explore new technologies
+I’m a **Web Developer** with a strong focus on **system architecture, scalability, and performance optimization**.  
+My work goes beyond writing code — I specialize in **designing robust solutions, ensuring security and governance standards, and guiding development teams toward best practices.**
 
-## 👋 Hi, I'm Francis Albert Ilacad  
+### 💡 Key Areas of Expertise
+- 🏗️ **Architecture & System Design** – building scalable and maintainable applications  
+- ⚡ **Performance Optimization** – ensuring efficiency at both application and infrastructure levels  
+- 🔒 **Security & Compliance** – implementing secure coding practices and governance frameworks  
+- 📈 **Scalability & Reliability** – designing solutions that handle growth without compromising performance  
+- 👨‍🏫 **Technical Leadership** – mentoring teams, enforcing coding standards, and driving technical direction  
 
-I’m a **Web Developer** passionate about building modern, scalable, and user-friendly applications.  
-I enjoy working with **JavaScript, React, Next.js, and cloud platforms**, and I’m always exploring new tools to grow as a developer.  
+---
+
+✨ I’m passionate about building systems that are not only functional, but also **secure, efficient, and future-proof**.
 
 <a href="https://filacadportfolio.netlify.app/" target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/imfizz/imfizz/assets/banner.png" 
+    src="https://raw.githubusercontent.com/imfizz/imfizz/master/assets/banner.png" 
     alt="Portfolio Website" 
     width="600"
   />
 </a>
+
+---
 
 ## 🚀 Cloud & Hosting
 <p>
