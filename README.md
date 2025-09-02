@@ -116,6 +116,18 @@ My work goes beyond writing code — I specialize in **designing robust solution
   <img src="https://skillicons.dev/icons?i=powershell" width="40"/>
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=francis&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+    height="165"
+  />
+</p>
+
 ## Connect with me: 
 <p>
   <a href="https://www.linkedin.com/in/francis-albert-ilacad-3a4111281/">
