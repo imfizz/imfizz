@@ -18,7 +18,7 @@ My work goes beyond writing code — I specialize in **designing robust solution
   <img 
     src="https://raw.githubusercontent.com/imfizz/imfizz/master/assets/banner.png" 
     alt="Portfolio Website Banner" 
-    width="600"
+    width="800"
   />
 </a>
 
