@@ -1,7 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-I’m a **Web Developer** with a strong focus on **system architecture, scalability, and performance optimization**.  
-My work goes beyond writing code — I specialize in **designing robust solutions, ensuring security and governance standards, and guiding development teams toward best practices.**
+**Fullstack Developer with 3+ years of experience delivering scalable, secure systems for Cebu Pacific and government platforms. Specialized in React, Node.js, and CI/CD automation, with a strong track record in building mission-critical tools that streamline operations, boost productivity, and ensure compliance. At Cebu Pacific, I led development across ramp, booking, and marketing systems—powering seamless travel experiences for millions and giving impact across airline operations.**
 
 ### 💡 Key Areas of Expertise
 - 🏗️ **Architecture & System Design** – building scalable and maintainable applications  
@@ -9,10 +8,6 @@ My work goes beyond writing code — I specialize in **designing robust solution
 - 🔒 **Security & Compliance** – implementing secure coding practices and governance frameworks  
 - 📈 **Scalability & Reliability** – designing solutions that handle growth without compromising performance  
 - 👨‍🏫 **Technical Leadership** – mentoring teams, enforcing coding standards, and driving technical direction  
-
----
-
-✨ I’m passionate about building systems that are not only functional, but also **secure, efficient, and future-proof**.
 
 <a href="https://filacadportfolio.netlify.app/" target="_blank">
   <img 
