@@ -1,15 +1,40 @@
-## 👋 Welcome to my GitHub!
+# 👋 Hi, I'm Francis Albert Ilacad
 
-**Fullstack Developer with 3+ years of experience delivering scalable, secure systems for Cebu Pacific and government platforms. Specialized in React, Node.js, and CI/CD automation, with a strong track record in building mission-critical tools that streamline operations, boost productivity, and ensure compliance. At Cebu Pacific, I led development across ramp, booking, and marketing systems—powering seamless travel experiences for millions and giving impact across airline operations.**
+**Fullstack Developer & Site Reliability Engineer (SRE)**  
+Architecting scalable, mission‑critical systems with 4+ years of experience in aviation and government sectors.  
+Proven record of boosting operational productivity by **56%** and cutting downtime by **80%** through automation and cloud‑native solutions.
 
-### 💡 Key Areas of Expertise
-- 🏗️ **Architecture & System Design** – building scalable and maintainable applications  
-- ⚡ **Performance Optimization** – ensuring efficiency at both application and infrastructure levels  
-- 🔒 **Security & Compliance** – implementing secure coding practices and governance frameworks  
-- 📈 **Scalability & Reliability** – designing solutions that handle growth without compromising performance  
-- 👨‍🏫 **Technical Leadership** – mentoring teams, enforcing coding standards, and driving technical direction  
+🌐 Portfolio: [www.francisilacad.com](https://www.francisilacad.com)  
+📍 Quezon City, Philippines  
 
-<a href="https://filacadportfolio.netlify.app/" target="_blank">
+### Key Areas of Expertise
+- **Architecture & System Design** – building scalable and maintainable applications  
+- **Performance Optimization** – ensuring efficiency at both application and infrastructure levels  
+- **Security & Compliance** – implementing secure coding practices and governance frameworks  
+- **Scalability & Reliability** – designing solutions that handle growth without compromising performance  
+- **Technical Leadership** – mentoring teams, enforcing coding standards, and driving technical direction  
+
+## 🏆 Career Highlights
+- **Blackfort Consulting (SRE L3):**  
+  - Automated compliance transfers preventing multi‑million‑dollar fines.  
+  - Architected self‑healing Node.js monitoring systems post‑OS migration.  
+  - Directed UAT‑to‑Production deployments for 50+ live aviation apps.  
+
+- **Blackfort Consulting (Fullstack):**  
+  - Built mission‑critical Slack alerting for grounded aircraft (AOG).  
+  - Digitized ramp operations, increasing productivity by **56%**.  
+  - Engineered sustainability analytics reducing per‑flight fuel consumption.  
+
+- **WPH Digital (Mid‑Level Web Dev):**  
+  - Developed ELKO DAM system with AI auto‑tagging, driving 5% revenue growth.  
+  - Delivered zero‑defect cultural mapping platform for government launch.
+ 
+## 📫 Let's Connect
+- Portfolio: [www,francisilacad.com](https://www.francisilacad.com)  
+- LinkedIn: [linkedin.com/in/francisalbertilacad](https://www.linkedin.com/in/francisalbertilacad/)  
+- Email: filacad22@gmail.com  
+
+<a href="https://www.francisilacad.com/" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/imfizz/imfizz/master/assets/banner.png" 
     alt="Portfolio Website Banner" 
